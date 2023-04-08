@@ -1,0 +1,5 @@
+amazon.com | email@email.com | password
+google | email@email.com | password1
+ | email@email.com | 
+amazon | email@email.com | password
+Gmail | email@email.com | 12345
